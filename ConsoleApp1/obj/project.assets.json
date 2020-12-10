@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\vboaten\\.nuget\\packages\\": {}
+    "C:\\Users\\rmwil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
+      "projectUniqueName": "C:\\Users\\rmwil\\Source\\Repos\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
       "projectName": "RestaurantMenu",
-      "projectPath": "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
-      "packagesPath": "C:\\Users\\vboaten\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\rmwil\\Source\\Repos\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
+      "packagesPath": "C:\\Users\\rmwil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rmwil\\Source\\Repos\\RestaurantMenu\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vboaten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rmwil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

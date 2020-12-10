@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KCla+mbDxXwBhIjknvPqjH7zRyyv0zzCBZQAVEwYVhFmFCJ45HlOv6OlToMh+4q8rmzt1Gsa0xBqxyOoNTI9aQ==",
+  "dgSpecHash": "Ky64GoYK7OJpyxq9TnN06C8YwPx38xjBZEy0qXwtHOaZm2Esn4l8uve/fdoDmPQBPXHAVj95uKVV8EXgV2aGKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vboaten\\git_exercises\\csharp-pracitce\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
+  "projectFilePath": "C:\\Users\\rmwil\\Source\\Repos\\RestaurantMenu\\ConsoleApp1\\RestaurantMenu.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
